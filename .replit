@@ -1,2 +1,3 @@
 language = "python3"
-run = "python3 implementation/4.develope_game.py"
+#run = "python3 implementation/4.develope_game.py"
+run = "python3 Stack_Queue/4.BFS.py"
